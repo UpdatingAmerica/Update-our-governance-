@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Updating America: Forming a More Perfect Union</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Updating America: Forming a More Perfect Union</h1>
+        <p class="tagline">Identifying and Cultivating Systems Change Leaders for Political Office</p>
+        <nav>
+            <ul>
+                <li><a href="#vision">Our Vision</a></li>
+                <li><a href="#process">The Process</a></li>
+                <li><a href="#nominate">Nominate a Leader</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="hero">
+            <div class="hero-content">
+                <h2>A New Path for American Leadership</h2>
+                <p>We believe that to overcome our nation's challenges, we need leaders who understand and can transform complex systems. Join us in identifying and elevating these individuals.</p>
+                <a href="#nominate" class="button">Nominate a Leader</a>
+            </div>
+        </section>
+
+        <section id="vision" class="content-section">
+            <h2>Our Vision: Leaders Who Understand and Transform Systems</h2>
+            <p>We envision a future where political leaders possess a deep understanding of complex systems, are driven by a commitment to addressing root causes, and have a proven track record of fostering collaboration. They see the nation not as broken machinery but as a living, evolving system capable of renewal and growth.</p>
+            <ul>
+                <li>Deep understanding of complex systems</li>
+                <li>Commitment to addressing root causes</li>
+                <li>Proven track record of collaboration</li>
+                <li>Focus on building resilient and equitable systems</li>
+            </ul>
+        </section>
+
+        <section id="process" class="content-section">
+            <h2>The Process: A National Leadership Discovery</h2>
+            <p>Our initiative involves a multi-phase process to identify, vet, connect, and ultimately elevate systems change leaders.</p>
+            <ol>
+                <li><strong>National Mapping & Identification:</strong> Identifying individuals leading systems change efforts.</li>
+                <li><strong>Vetting & Initial Assessment:</strong> Evaluating candidates based on key criteria.</li>
+                <li><strong>Connection & Collaborative Challenge:</strong> Bringing candidates together for collaborative problem-solving.</li>
+                <li><strong>The Tournament of Systems Solutions:</strong> A public demonstration of their skills.</li>
+                <li><strong>Elevation & Transition to Candidacy:</strong> Supporting top candidates in their political journey.</li>
+            </ol>
+            <p>We are currently in the <strong>National Mapping & Identification</strong> phase.</p>
+        </section>
+
+        <section id="nominate" class="content-section">
+            <h2>Nominate a Systems Change Leader</h2>
+            <p>Do you know someone who demonstrates the ability to understand and transform complex systems? Nominate them to be considered for this groundbreaking initiative.</p>
+            <div class="embed-container">
+                <iframe src="YOUR_GOOGLE_FORM_EMBED_URL_HERE" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+            </div>
+        </section>
+
+        <section id="contact" class="content-section">
+            <h2>Contact Us</h2>
+            <p>Have questions or want to get involved? Reach out to us.</p>
+            <form action="#" method="POST"> <div class="form-group">
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" name="name" required>
+                </div>
+                <div class="form-group">
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+                <div class="form-group">
+                    <label for="message">Message:</label>
+                    <textarea id="message" name="message" rows="5" required></textarea>
+                </div>
+                <button type="submit" class="button">Send Message</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Updating America. All rights reserved.</p>
+    </footer>
+</body>
+</html>
